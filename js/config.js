@@ -13,7 +13,7 @@ const PASSWORD_CONFIG = {
 // 网站信息配置
 const SITE_CONFIG = {
     name: 'LibreTV',
-    url: 'https://libretv.is-an.org',
+    url: 'https://sk.5255555.xyz/',
     description: '免费在线视频搜索与观看平台',
     logo: './image/retrotv_5520.png',
     version: '1.0.3'
@@ -29,6 +29,18 @@ const API_SITES = {
     sklive: {
         api: 'https://mv.sklive.eu.org/api.php/provide/vod',
         name: '时空影视',
+    },
+    jczy: {
+        api: 'https://zy.jinchancaiji.com/api.php/provide/vod',
+        name: '金蝉影视',
+    },
+    cyou: {
+        api: 'https://www.caiji.cyou/api.php/provide/vod',
+        name: '数字影视',
+    },
+    jazy: {
+        api: 'http://154.219.117.232:9981/jacloudapi.php/provide/vod',
+        name: '建安影视',
     },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
