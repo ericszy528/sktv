@@ -43,7 +43,7 @@ const API_SITES = {
         name: '建安影视',
     },
         },
-    jazy: {
+    csszy: {
         api: 'https://gctf.tfdh.top/api.php/provide/vod',
         name: '测试',
     },
