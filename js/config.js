@@ -42,6 +42,11 @@ const API_SITES = {
         api: 'http://154.219.117.232:9981/jacloudapi.php/provide/vod',
         name: '建安影视',
     },
+        },
+    jazy: {
+        api: 'https://gctf.tfdh.top/api.php/provide/vod',
+        name: '测试',
+    },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风影视',
